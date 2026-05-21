@@ -19,17 +19,20 @@ Al final debe declararse una función main.
 La ejecución inicia con una llamada a main.
 ```
 # Léxico de C‐ 
-
 ![](img/Imagen1.png)
-
+![](img/Imagen2.png)
 
 # Sintaxis de C‐ 
-
+![](img/Imagen3.png)
+![](img/Imagen4.png)
 
 # Semántica de C‐ 
-
-
-
-
+![](img/Imagen5.png)
+![](img/Imagen6.png)
+![](img/Imagen7.png)
+![](img/Imagen8.png)
 
 # Ejemplos de programas en C‐ 
+![](img/Imagen9.png)
+![](img/Imagen10.png)
+![](img/Imagen11.png)
